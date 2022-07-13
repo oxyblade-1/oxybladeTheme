@@ -1,13 +1,8 @@
 # README
-## This is the README for your extension "oxy-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Theme Extension "oxybladeTheme"
+Voici mon thème pour Visual Studio code, qui je pense
+peux plaire à certains developpeur ayant du mal à choisir un bon
+thème. Je compte de mon coté l'utilisé car la plus part des thèmes
+ne sont pas forcément adapté à la syntaxe ce qui peut parfoit être désastreux.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Alors n'hésiter pas à me faire des retour du thème ^^
