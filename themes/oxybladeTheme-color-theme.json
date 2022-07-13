@@ -34,7 +34,7 @@
 		"editor.selectionHighlightBorder": "#0FB6BCf0",
 		"editorBracketMatch.background": "#000000",
 		"editorBracketMatch.border": "#FFD31D7f",
-		"editorCursor.foreground": "#FFD31D",
+		"editorCursor.foreground": "#ff1d1d",
 		"editorError.foreground": "#10FF0070",
 		"editorGroup.border": "#00000030",
 		"editorGroupHeader.tabsBackground": "#000000",
