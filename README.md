@@ -6,4 +6,4 @@ thème. Je compte de mon coté l'utilisé car la plus part des thèmes
 ne sont pas forcément adapté à la syntaxe ce qui peut parfoit être désastreux.
 
 Alors n'hésiter pas à me faire des retour du thème ^^
-lien du thème [ici]("https://marketplace.visualstudio.com/items?itemName=oxyblade-Theme.oxy-theme")
+lien du thème [ici](https://marketplace.visualstudio.com/items?itemName=oxyblade-Theme.oxy-theme)
